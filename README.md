@@ -3,11 +3,28 @@
 </p>
 
 <h1 align="center">
-  HardHacker Theme for Foobar
+  HardHacker Theme for Ghostty
 </h1>
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.jpg)
 
 ## Install
 
-* Install steps here
+### Download
+
+Download the theme from the [releases page]()
+
+
+or clone the repository:
+
+```git clone https://github.com/stevebosworth/hardhacker-ghostty.git```
+
+### Import
+
+Import the theme to `~/.config/ghostty/themes/`:
+
+```cp -r hardhacker-ghostty ~/.config/ghostty/themes/```
+
+Add the following line to your `~/.config/ghostty/config`:
+
+```theme = hardhacker-ghostty```
