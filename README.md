@@ -12,8 +12,7 @@
 
 ### Download
 
-Download the theme from the [releases page]()
-
+Download just the theme file directly to your ghostty config folder [directly](https://github.com/stevebosworth/hardhacker-ghostty/releases/download/v0.0.1/hardhacker)
 
 or clone the repository:
 
@@ -21,10 +20,10 @@ or clone the repository:
 
 ### Import
 
-Import the theme to `~/.config/ghostty/themes/`:
+Import the theme file 'hardhacker' to `~/.config/ghostty/themes/`:
 
-```cp -r hardhacker-ghostty ~/.config/ghostty/themes/```
+```cp -r hardhacker ~/.config/ghostty/themes/```
 
 Add the following line to your `~/.config/ghostty/config`:
 
-```theme = hardhacker-ghostty```
+```theme = hardhacker```
