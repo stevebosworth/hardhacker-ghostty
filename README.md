@@ -16,7 +16,7 @@ Download just the theme file directly to your ghostty config folder [directly](h
 
 or clone the repository:
 
-```git clone https://github.com/stevebosworth/hardhacker-ghostty.git```
+```git clone https://github.com/stevebosworth/hardhacker-ghostty.git hardhacker```
 
 ### Import
 
